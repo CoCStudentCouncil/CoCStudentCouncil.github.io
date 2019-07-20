@@ -3,14 +3,15 @@ layout: default
 ---
 # Purpose
 The purpose of Student Council is to:
-* Organize **Town Halls** to provide a platform for all Georgia Tech College of Computing (CoC) students to meet and freely discuss issues concerning the CoC and its future;
+* To provide a platform for all Georgia Tech College of Computing (CoC) students to meet and freely discuss issues concerning the CoC and its future;
 * Establish a **direct communication** channel between the CoC students and the administration of the CoC;
 * Ensure that the **voices of the CoC students** are heard and taken into account when decisions concerning the future of the CoC are made by the CoC Administration.
 
 # Membership
 **Every CoC student is a member by default.** Any member can show up to a meeting and participate. Meetings are run in an organized manner, and the meeting outcomes are compiled in a document, which is then shared with the members of the CoC administration. Student Council aims to be the main student forum for organized discussions about the CoC.
 
-# Spring 2019 Meeting Schedule
+<!--
+# Fall 2019 Meeting Schedule
 
 | Date | Location | Purpose |
 |:-----|:---------|:--------|
@@ -19,6 +20,7 @@ The purpose of Student Council is to:
 | April 18th (Thursday) | CoC 017 (basement) | General Meeting |
 
 All meetings will be from 11am - 11:50am.
+-->
 
 # Officers
 Student Council involves two sets of officers: **Executive Board** officers and **Student Advisory Board** officers. Executive Board officers are tasked with running the meetings, managing the organization, and communicating the results of the meetings to the CoC administration. Student Advisory Board officers represent specific groups of students, and are expected to be available to advise both the Student Council members and the CoC administration about their groups' points of view on particular topics. The Student Advisory Board includes representatives from:
@@ -42,7 +44,7 @@ The executive board includes:
 
 ## I read the description, but what exactly is Student Council?
 
-We meet for one hour at a time on a biweekly schedule. Members make motions to discuss specific topics. After the discussion, members can make motions to add the discussed item to the meeting resolution, which is to be shared with relevant members of the CoC administration. Student Council allows students to discuss CoC related issues with their peers, and express the results collectively to the administration.
+Members make motions to discuss specific topics. After the discussion, members can make motions to add the discussed item to the meeting resolution, which is to be shared with relevant members of the CoC administration. Student Council allows students to discuss CoC related issues with their peers, and express the results collectively to the administration.
 
 ## What are some examples of the topics we can discuss in Student Council?
 
