@@ -2,7 +2,8 @@
 layout: blank
 ---
 # Fall 2019 Calendar
-brought to you by the College of Computing Student Council
+<i>brought to you by the College of Computing Student Council</i>
+<ul>
 *Anime-O-Tekku
 *Big Data
 **Big O: Theory
@@ -27,4 +28,5 @@ brought to you by the College of Computing Student Council
 *The Makery
 *VGDev
 *Women@CC
+</ul>
 Find out more <a href="https://www.cc.gatech.edu/content/student-organizations">here</a>.
