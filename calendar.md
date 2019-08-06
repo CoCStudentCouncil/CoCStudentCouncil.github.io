@@ -1,7 +1,10 @@
 ---
 layout: embed
 sections:
-    about: 
+    about: hei
+
+---
+#Fall 2019 Calendar
 <ul>
 <li>Anime-O-Tekku</li>
 <li>Big Data</li>
@@ -29,7 +32,4 @@ sections:
 <li>Women@CC</li>
 </ul>
 Find out more about your CoC Student Organizations <a href="https://www.cc.gatech.edu/content/student-organizations">here</a>.
-
----
-# CoC Student Organizations - Fall 2019 Calendar
 
