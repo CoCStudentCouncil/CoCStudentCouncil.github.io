@@ -1,5 +1,5 @@
 ---
-layout: blank
+layout: embed
 ---
 # Fall 2019 Calendar
 <i>brought to you by the College of Computing Student Council</i>
