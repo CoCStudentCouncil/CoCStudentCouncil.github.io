@@ -11,6 +11,9 @@
     <div class="wrapper">
       <header>
         </header>
+        <h2>About</h2>
+        {{ page.sections['about'] | textilize }}
+        <h2>hi</h2>
 
       <section>
       {{ content }}
@@ -20,8 +23,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-          <p><small>Brought to you by your <a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}>College of Computing Student Council.</a></small></p>
-        <p><small>Hosted on GitHub Pages. </small></p>
+          <p><small>Brought to you by your <a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>. Hosted on GitHub Pages. </small></p>
       </footer>
     </div>
       
