@@ -26,7 +26,8 @@ sections:
         The Makery
         VGDev
         Women@CC
-      
+    calendar-title: |
+        Fall 2019
+        
 ---
 
-Fall 2019
