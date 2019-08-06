@@ -1,5 +1,8 @@
 ---
 layout: embed
+sections:
+    about: This is the about.
+
 ---
 # CoC Student Organizations - Fall 2019 Calendar
 <ul>
