@@ -26,6 +26,7 @@ sections:
         The Makery
         VGDev
         Women@CC
+        Find out more about your CoC Student Organizations at https://www.cc.gatech.edu/content/student-organizations.
                
 ---
 Fall 2019
