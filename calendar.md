@@ -2,7 +2,7 @@
 layout: embed
 sections: 
   about: 
-        Anime-O-Tekku
+        "Anime-O-Tekku
         Big Data
         Big O: Theory
         Bits of Good
@@ -25,7 +25,7 @@ sections:
         The Agency
         The Makery
         VGDev
-        Women@CC
+        Women@CC"
       
 ---
 
