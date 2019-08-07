@@ -12,7 +12,7 @@
         <header>
             <h3>CoC Student Organizations</h3>
                 <ul>
-                    {% for item in page.sections.about %}
+                    {% for item in page.sections['about']  | textilize %}
                     <li>{{item.title}}</li>
                     {% endfor %}
                 </ul>
