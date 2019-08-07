@@ -2,9 +2,9 @@
 layout: embed
 sections:
     about: |
-          *Anime-O-Tekku
-          *Big Data
-          *Big O: Theory
+        *Anime-O-Tekku
+        *Big Data
+        *Big O: Theory
         Bits of Good
         CoC Student Council
         Design Club
