@@ -2,9 +2,9 @@
 layout: embed
 sections:
     about: |
-        Anime-O-Tekku
-        Big Data
-        Big O: Theory
+          *Anime-O-Tekku
+          *Big Data
+          *Big O: Theory
         Bits of Good
         CoC Student Council
         Design Club
@@ -26,7 +26,6 @@ sections:
         The Makery
         VGDev
         Women@CC
-        Find out more about your CoC Student Organizations at https://www.cc.gatech.edu/content/student-organizations.
                
 ---
-Fall 2019
+
