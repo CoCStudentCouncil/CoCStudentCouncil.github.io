@@ -11,7 +11,11 @@
     <div class="wrapper">
         <header>
             <h3> CoC Student Organizations</h3>
-                {{ page.sections['about'] | textilize }}
+                <ul>
+                    {% for item in calendar %}
+                    <li>{{item.title}}</li>
+                    {% endfor %}
+                </ul>
             <p>Find out more about our CoC Student Organizations <a href="https://www.cc.gatech.edu/content/student-organizations">here</a>.</p>
         </header>
 
