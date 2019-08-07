@@ -9,12 +9,10 @@
   </head>
   <body>
     <div class="wrapper">
-        <header>  
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-            
-        {{ page.sections['about'] | textilize }}
+        <header>
+            <h3> CoC Student Organizations</h3>
+                {{ page.sections['about'] | textilize }}
+            <p>Find out more about your CoC Student Organizations <a href="https://www.cc.gatech.edu/content/student-organizations">here</a>.</p>
         </header>
 
       <section>
