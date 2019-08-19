@@ -5,7 +5,7 @@ sections:
     - title: "Anime-O-Tekku"
     - title: "Big Data"
     - title: "Big O: Theory "
-    - title: "        Bits of Good "
+    - title: "Bits of Good "
     - title: "        CoC Student Council "
     - title: "        Design Club "
     - title: "        Entertainment Software Enthusiasts (ESE) "
