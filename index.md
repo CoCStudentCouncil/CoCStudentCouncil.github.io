@@ -10,18 +10,6 @@ The purpose of Student Council is to:
 # Membership
 **Every CoC student is a member by default.** Any member can show up to a meeting and participate. Meetings are run in an organized manner, and the meeting outcomes are compiled in a document, which is then shared with the members of the CoC administration. Student Council aims to be the main student forum for organized discussions about the CoC.
 
-<!--
-# Fall 2019 Meeting Schedule
-
-| Date | Location | Purpose |
-|:-----|:---------|:--------|
-| March 7th (Thursday) | CoC 017 (basement) | General Meeting |
-| April 2nd (Tuesday) | CoC 016 (basement) | **Elections** |
-| April 18th (Thursday) | CoC 017 (basement) | General Meeting |
-
-All meetings will be from 11am - 11:50am.
--->
-
 # Officers
 Student Council involves two sets of officers: **Executive Board** officers and **Student Advisory Board** officers. Executive Board officers are tasked with running the meetings, managing the organization, and communicating the results of the meetings to the CoC administration. Student Advisory Board officers represent specific groups of students, and are expected to be available to advise both the Student Council members and the CoC administration about their groups' points of view on particular topics. The Student Advisory Board includes representatives from:
 
