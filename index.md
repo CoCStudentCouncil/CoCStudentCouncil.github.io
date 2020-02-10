@@ -9,3 +9,11 @@ The purpose of Student Council is to:
 
 # Membership
 **Every CoC student is a member by default.** Any member can show up to a meeting and participate. Meetings are run in an organized manner, and the meeting outcomes are compiled in a document, which is then shared with the members of the CoC administration. Student Council aims to be the main student forum for organized discussions about the CoC.
+
+# Contact
+Please contact <a href=" mailto: gtcocstudentcouncil@gmail.com"> our central email</a> for your questions. You can also reach out to our Executive Officers. 
+        <ul>
+          <li> <a href="mailto: ragrawal45@gatech.edu">Riya Agrawal</a></li>
+          <li> <a href="mailto: jmadison2@gatech.edu">Jordan Madison</a> </li>
+          <li> <a href="mailto: paulgibert98@gatech.edu">Paul Gibert</a></li>
+        </ul>
