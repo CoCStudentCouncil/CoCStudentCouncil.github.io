@@ -5,8 +5,8 @@ layout: text-layout
 ### FAQ
 
 1. [Questions about space, building access and locations](#space)
-2. [Questions about threads](#threads)
-3. 
+2. [Questions about prereqs, threads and classes](#classes)
+3. [Questions about graduating, grad school and careers](#grad)
 
 ## <a name="spaces"></a> Questions about space, building access and locations
 
@@ -23,9 +23,18 @@ The Nest wass a quiet study space on the 3rd floor that usually did not see much
 CODA access is only open to the GT departments that now reside in CODA and since the Institute doesn’t own the entire building – leased spaces – access is permitted for employees and staff of GT offices, non-GT companies with space, and anyone willing to pay for WeWork space.  When the retail and dining spaces open, students and the community will have access to that.  For tours, you’d have to email Portman Holdings to see if there’s a public tour available or to set up a student tour if allowed.
 
 
-## <a name="threads"></a> Questions about threads
+## <a name="classes"></a> Questions about prereqs, threads and classes
 
+# Why did the College of Computing remove the Linear Algebra Bridge Course? 
+The "Linear Algebra Bridge Course" (MATH 2802 - Applications of Linear Algebra) was a course restricted to CS students with credit for MATH 1553, MATH 1502 or MATH 1522 to help change of majors satisfy their MATH 1554 credit. Unfortunately, this course was offered by the Math Department, not the Computer Science department, which means we can only speculate as to why the course is no longer offered (perhaps staffing the course was difficult). Advisors recommend that every current or prospective CS student register for MATH 1554. 
 
+# Some courses are only offered in the Fall or Spring, which makes it hard to plan so that you graduate. Can we address courses like this?
+The CoC makes sure that core classes are always offered in the Fall and Spring. Offering certain thread picks and electives, on the other hand, depend on the availability of the instructional staff ready to teach them. If you are concerned about delaying graduation,be assured that you will always be able to find an alternative class that satisfies a thread pick every semester.
+
+## <a name="grad"></a> Questions about graduating, grad school and career
+
+# Do we have resources for those interested in grad school? 
+Yes! The CoC is growing the budget for such resources at an advising and career services level. Keep an eye out for the Graduate School Dinner event hosted by the CoC, Theory and Agency organizations. 
 
 
 [back](./)
