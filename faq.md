@@ -54,8 +54,8 @@ We recieved a lot of feedback about BS/MS information and shared this with the a
 
 Till then, <a href="http://www.catalog.gatech.edu/academics/undergraduate/bs-ms-degree-programs/"></a>. -->
 
-### Can we get more advisors? 
-The CoC is continuing to hire more advisors. In Fall 2019, 2-3 more advisors were hired and assigned to populations. Currently, one advisor oversees 500 students, but also aid the transition of 600 new freshmen every Fall and advise 50-60 major changes, CS minors, and OMSCS students. Advising staff are hired based on how much funding is allocated to this effect. As the CoC sees more influx of students, funding will be decided accordingly. 
+<!-- ### Can we get more advisors? 
+The CoC is continuing to hire more advisors. In Fall 2019, 2-3 more advisors were hired and assigned to populations. Currently, one advisor oversees 500 students, but also aid the transition of 600 new freshmen every Fall and advise 50-60 major changes, CS minors, and OMSCS students. Advising staff are hired based on how much funding is allocated to this effect. As the CoC sees more influx of students, funding will be decided accordingly.  -->
 
 
 [back](./)
