@@ -27,7 +27,7 @@ CODA access is only open to the GT departments that now reside in CODA and since
 ## <a name="classes"></a> Questions about prereqs, threads and classes
 
 ### I usually have a lot of questions about registration. 
-We didn't realize how important the Student Advising Alert emails during Phase I and Phase II is until we discussed this with the leads on our advising team.
+We didn't realize how important the Student Advising Alert emails during Phase I and Phase II is until we discussed this with the leads on our advising team. 
 
 ### Why did the College of Computing remove the Linear Algebra Bridge Course? 
 The "Linear Algebra Bridge Course" (MATH 2802 - Applications of Linear Algebra) was a course restricted to CS students with credit for MATH 1553, MATH 1502 or MATH 1522 to help change of majors satisfy their MATH 1554 credit. Unfortunately, this course was offered by the Math Department, not the Computer Science department, which means we can only speculate as to why the course is no longer offered (perhaps staffing the course was difficult). 
@@ -38,7 +38,7 @@ Advisors send out  recommend that every current or prospective CS student regist
 The CoC makes sure that core classes are always offered in the Fall and Spring. Offering certain thread picks and electives, on the other hand, depend on the availability of the instructional staff ready to teach them. If you are concerned about delaying graduation,be assured that you will always be able to find an alternative class that satisfies a thread pick every semester.
 
 ### Who reads CIOS? 
-The CIOS is managed by the Office of Academic Effectiveness (<href="https://academiceffectiveness.gatech.edu/surveys/cios/">). Results are anonymous. According to the adminsitration, both the instructor and the department reads the CIOS, because they are considered for promotion and tenure decisions. There are mechanisms in place to handle concerning student feedback.
+The CIOS is managed by the Office of Academic Effectiveness (<a href="https://academiceffectiveness.gatech.edu/surveys/cios/">). Results are anonymous. According to the adminsitration, both the instructor and the department reads the CIOS, because they are considered for promotion and tenure decisions. There are mechanisms in place to handle concerning student feedback.
 
 ### Can we expand online course options? 
 Currently, CS 1302 and CS 1331 have online offerings, and other 1000 and 2000 level classes are being looked into. There is currently no roadmap for expanding upper level classes online.
@@ -54,7 +54,7 @@ Students in our Town Halls have brought up the following ideas which we have sha
 ### Why is there confusing information shared about the BS/MS program?
 We recieved a lot of feedback about BS/MS information and shared this with the advising team. The response is that since the program is so new, a lot of details are still being ironed out and they encourage us to continue share feedback through Town Halls. We encourage you to keep bringing up issues so that we can continue to constructively help advising make their services better.
 
-Till then, <href="http://www.catalog.gatech.edu/academics/undergraduate/bs-ms-degree-programs/">.
+Till then, <a href="http://www.catalog.gatech.edu/academics/undergraduate/bs-ms-degree-programs/">.
 
 ### Can we get more advisors? 
 The CoC is continuing to hire more advisors. In Fall 2019, 2-3 more advisors were hired and assigned to populations. Currently, one advisor oversees 500 students, but also aid the transition of 600 new freshmen every Fall and advise 50-60 major changes, CS minors, and OMSCS students. Advising staff are hired based on how much funding is allocated to this effect. As the CoC sees more influx of students, funding will be decided accordingly. 
