@@ -49,10 +49,10 @@ Yes! The CoC is growing the budget for such resources at an advising and career 
 
 Students in our Town Halls have brought up the following ideas which we have shared with concerned parties: involving more masters and PhD students in these events, providing more resources for learning about the graduate school application process, and creating more sessions about personal statements, etc.. As we recieve more information about the status of these suggestions, we will update you.
 
-### Why is there confusing information shared about the BS/MS program?
+<!-- ### Why is there confusing information shared about the BS/MS program?
 We recieved a lot of feedback about BS/MS information and shared this with the advising team. The response is that since the program is so new, a lot of details are still being ironed out and they encourage us to continue share feedback through Town Halls. We encourage you to keep bringing up issues so that we can continue to constructively help advising make their services better.
 
-<!-- Till then, <a href="http://www.catalog.gatech.edu/academics/undergraduate/bs-ms-degree-programs/"></a>. -->
+Till then, <a href="http://www.catalog.gatech.edu/academics/undergraduate/bs-ms-degree-programs/"></a>. -->
 
 ### Can we get more advisors? 
 The CoC is continuing to hire more advisors. In Fall 2019, 2-3 more advisors were hired and assigned to populations. Currently, one advisor oversees 500 students, but also aid the transition of 600 new freshmen every Fall and advise 50-60 major changes, CS minors, and OMSCS students. Advising staff are hired based on how much funding is allocated to this effect. As the CoC sees more influx of students, funding will be decided accordingly. 
