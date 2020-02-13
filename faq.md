@@ -7,6 +7,7 @@ layout: text-layout
 1. [Questions about space, building access and locations](#space)
 2. [Questions about prereqs, threads and classes](#classes)
 3. [Questions about advising, grad school and careers](#grad)
+4. [Questions about emails](#email)
 
 ## <a name="spaces"></a> Questions about space, building access and locations
 
@@ -56,6 +57,17 @@ We recieved a lot of feedback about BS/MS information and shared this with the a
 
 ### Can we get more advisors? 
 In Fall 2019, 2 new academic advisors were hired and assigned to populations. The advising ratio has been going down significantly, with advisors having an average case load of 400-500 students. In addition to this, they participate in FASET, process 40-50 major changes per month, and develop programs/events centered around academic advising for CS and CM students. Advising staff are hired based on funding. As the CoC sees more influx of students, funding will be decided accordingly. 
+
+## <a name="emails"></a> Questions about emails
+
+### How do I send things out to the whole CoC? 
+
+This is the address of the emailing list: cc-newsandevents-request@lists.gatech.edu <cc-newsandevents-request@lists.gatech.edu>
+
+You can send emails out on this addressed to the CoC, they will be put into a moderation queue and sent out after being moderated. 
+You can address the CoC directly (you don't have to greet the moderator or asked if they can help you send this email out, unless you really want to:))
+On average, batches of moderated emails are sent out twice a day. We recommend sending info on upcoming events in advance, because sometimes emails might not get sent out on time.
+Please be mindful of how many emails we get as students before deciding to send something out! 
 
 
 [back](./)
